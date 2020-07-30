@@ -10,22 +10,22 @@ positions where the user wants with highest precision in both offline and online
 
 # **INTRODUCTION**
 
-  1. **Background**
+##  1. **Background**
 
 This app is mainly used as a tool to make silent or raise and alarm for its user on his/her designated locations according to user defined range. Sometimes we have to make silent/alarm our mobile device in many places as we are restricted to use mobile device in those places. This app will help its user to do that job. This app does this job very exquisitely. This kind of is rarely been developed and we plan to upload this app on Google Play Store.
 
-  1. **Purpose**
+##  1. **Purpose**
 
 This app is a tool application to notify the user with alarm or make device silent when the user enters his/her predesignated location and specified range. When a user needs to be notified, the app from background notify the user with an alarm or simply make phone silent.
 
-  1. **Applicability**
+##  1. **Applicability**
 
 Suppose the user needs to be notified when he is in the designated region, the app will send and notification and trigger an alarm/silent device. This app will be very useful for different kind of events.
 
 
 # **SURVEY OF TECHNOLOGIES**
 
-**2.1 Survey**
+## **2.1 Survey**
 
 In today&#39;s technological world everybody is looking for the on-hand smart and perfect technological solution to satisfy their day to day requirements. To design and develop the Mobile Apps, there is necessity to make a survey of the tools and technologies used and which are popular in the world of mobile apps developers.
 
