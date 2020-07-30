@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e3e5e2"
+    tools:context=".Home">
+
+
+    <ToggleButton
+        android:id="@+id/toggle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textOff="Alarm Mode"
+        android:textOn="Silent Mode"
+        ></ToggleButton>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+
+    <!--        <Button-->
+<!--        android:onClick="showDatabase"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="left|top"-->
+<!--        android:text="Show Database"-->
+<!--        android:id="@+id/showData"-->
+<!--        android:padding="10dp"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:paddingRight="10dp"/>-->
+<!--    <Button-->
+<!--        android:onClick="deleteDatabase"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="right|top"-->
+<!--        android:text="Delete Database"-->
+<!--        android:id="@+id/deleteDatabase"-->
+<!--        android:padding="10dp"-->
+<!--        android:layout_marginTop="20dp"-->
+<!--        android:paddingRight="10dp"/>-->
+
+</LinearLayout>
