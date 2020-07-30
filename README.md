@@ -1,4 +1,3 @@
-# LocationAlarm-App-Locatozoid-
 
 # **Location Alarm App Using Geo Location API**
 
@@ -63,7 +62,7 @@ Then that location is disabled and the background thread starts to process again
 
 The procedure is depicted nicely in fig 4.1. It shows how the app works and stores data.
 
-![](RackMultipart20200730-4-u5w5c7_html_cd19908f64cb246f.png)
+![](images/flowchart.jpg.png)
 
 Fig 4.1: Flowchart of procedure
 
@@ -95,9 +94,13 @@ When the phone is on airplane mode. In both without data and cellular connection
 
 First of all the user needs to install the app. Then the map view with users current location appears. On the map view, the user can add a location by touching in the app. When the user taps or touch a location, a pop up opens to entry data with a range.
 
-![](RackMultipart20200730-4-u5w5c7_html_419b292b16c2fd25.jpg) ![](RackMultipart20200730-4-u5w5c7_html_5f6e30a046355ce9.jpg)
+![](images/1.jpg.png)
 
-Fig 6.1: Map view with user Fig 6.2: Pop up to entry
+Fig 6.1: Map view with user
+
+![](images/2.jpg)
+
+Fig 6.2: Pop up to entry
 
 location and saved locations encircled. location in database.
 
@@ -107,9 +110,13 @@ This data are showed in a view where the user can see the location,delete the lo
 
 The user can also choose if he/she wants to get and an alarm or simply wants to silent the device.
 
-![](RackMultipart20200730-4-u5w5c7_html_989413c58d83ee2f.jpg) ![](RackMultipart20200730-4-u5w5c7_html_da6af047d44cffce.jpg)
+![](images/3.jpg)
 
-Fig 6.3: Data from database Fig 6.4 Data from database in
+Fig 6.3: Data from database
+
+![](images/4.jpg)
+
+Fig 6.4 Data from database in
 
 in Silent mode. Alarm mode.
 
@@ -121,7 +128,7 @@ After the alarm has been triggered, the specified location data will be disabled
 
 It had to be turned on again to get the alarm or silent service.
 
-![](RackMultipart20200730-4-u5w5c7_html_82afc7e14a88cdee.jpg)
+![](images/5.jpg)
 
 Fig 6.5: Alarm view
 
