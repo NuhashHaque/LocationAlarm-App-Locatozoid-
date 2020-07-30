@@ -94,7 +94,7 @@ When the phone is on airplane mode. In both without data and cellular connection
 
 First of all the user needs to install the app. Then the map view with users current location appears. On the map view, the user can add a location by touching in the app. When the user taps or touch a location, a pop up opens to entry data with a range.
 
-![](images/1.jpg.png)
+![](images/1.jpg)
 
 Fig 6.1: Map view with user
 
